@@ -13,11 +13,11 @@ PalletTown_Text_ReadItReadIt::
 
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::
-	.string "TRAINER TIPS\p"
-	.string "Press START to open the MENU!$"
+	.string "ASTUCE\p"
+	.string "START pour ouvrir le menu.$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
-	.string "Signs are useful, aren't they?$"
+	.string "Les panneaux sont utiles, hein?$"
 
 PalletTown_Text_LookCopiedTrainerTipsSign::
 	.string "Look, look!\p"

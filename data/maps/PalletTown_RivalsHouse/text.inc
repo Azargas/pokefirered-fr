@@ -1,7 +1,6 @@
 PalletTown_RivalsHouse_Text_HiBrothersAtLab::
-    .string "DAISY: Hi, {PLAYER}!\p"
-    .string "My brother, {RIVAL}, is out at\n"
-    .string "Grandpa's LAB.$"
+    .string "NINA: Salut {PLAYER}!\p"
+    .string "{RIVAL} est dans le labo de pépé!$"
 
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
     .string "DAISY: {PLAYER}, I heard you had\n"
@@ -34,12 +33,11 @@ PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
     .string "them a rest.$"
 
 PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
-    .string "It's a big map of the KANTO region.\n"
-    .string "Now this would be useful!$"
+    .string "C'est une carte!\n"
+    .string "Ça peut être utile!$"
 
 PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
-    .string "The shelves are crammed full of\n"
-    .string "books on POKéMON.$"
+    .string "Des bouquins sur les POKéMON!$"
 
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
     .string "DAISY: Hi, {PLAYER}!\n"
@@ -121,6 +119,4 @@ PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
     .string "POKéMON would hate you so much?$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
-    .string "“The lovely and sweet\n"
-    .string "CLEFAIRY”$"
-
+    .string "Le gentil et adorable MELOFEE.$"

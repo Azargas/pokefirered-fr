@@ -1,6 +1,6 @@
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
-    .string "{RIVAL}: What, it's only {PLAYER}?\n"
-    .string "Gramps isn't around.$"
+    .string "{RIVAL}: Yo! {PLAYER}!\n"
+    .string "Pépé n'est pas là!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
     .string "{RIVAL}: Gramps!\n"
@@ -229,44 +229,44 @@ PalletTown_ProfessorOaksLab_Text_OakComeSeeMeSometime::
     .string "POKéDEX is coming along.$"
 
 PalletTown_ProfessorOaksLab_Text_BlankEncyclopedia::
-    .string "It's like an encyclopedia, but the\n"
-    .string "pages are blank.$"
+    .string "C'est comme une encyclopédie mais\n"
+    .string "les pages sont vierges!$"
 
 PalletTown_ProfessorOaksLab_Text_ThoseArePokeBalls::
-    .string "Those are POKé BALLS.\n"
-    .string "They contain POKéMON!$"
+    .string "Ces POKé BALLS contiennent\n"
+    .string "des POKéMON!$"
 
 PalletTown_ProfessorOaksLab_Text_OaksLastMon::
     .string "That's PROF. OAK's last POKéMON.$"
 
 PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu::
-    .string "Press START to open the MENU!$"
+    .string "START pour ouvrir le MENU!$"
 
 PalletTown_ProfessorOaksLab_Text_SaveOptionInMenu::
-    .string "The SAVE option is on the MENU.\n"
-    .string "Use it regularly.$"
+    .string "L'option SAUVER est sur l'écran du\n"
+    .string "MENU.$"
 
 PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPoints::
     .string "All POKéMON types have strong and\n"
     .string "weak points against others.$"
 
 PalletTown_ProfessorOaksLab_Text_EmailMessage::
-    .string "There's an e-mail message here.\p"
+    .string "Il y a un e-mail!\p"
     .string "…\p"
-    .string "Finally!\n"
-    .string "The ultimate TRAINERS of the\l"
-    .string "POKéMON LEAGUE are ready to\l"
-    .string "take on all comers!\p"
-    .string "Bring your best POKéMON and see\n"
-    .string "how you rate as a TRAINER!\p"
-    .string "POKéMON LEAGUE HQ\n"
-    .string "INDIGO PLATEAU\p"
-    .string "PROF. OAK, please visit us!\n"
-    .string "…$"
+    .string "Avis à tous les DRESSEURS de\n"
+    .string "POKéMON!\l"
+    .string "Le CONSEIL 4 est prêt à affronter\l"
+    .string "tout concurrent!\p"
+    .string "Présentez vos meilleurs POKéMON\n"
+    .string "et découvrez votre niveau en tant\l"
+    .string "que DRESSEUR!\p"
+    .string "LIGUE POKéMON, PLATEAU INDIGO\p"
+    .string "PS: PROF. CHEN, votre visite est\n"
+    .string "attendue…$"
 
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
-    .string "I study POKéMON as PROF. OAK's\n"
-    .string "AIDE.$"
+    .string "J'assiste le PROF. CHEN. Je suis\n"
+    .string "donc son… ASSISTANT!$"
 
 PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
     .string "Hi, {PLAYER}. I bet you've become\n"
@@ -287,10 +287,10 @@ PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow::
     .string "OAK's POKéMON SEMINAR.$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
-    .string "PROF. OAK may not look like much,\n"
-    .string "but he's the authority on POKéMON.\p"
-    .string "Many POKéMON TRAINERS hold him in\n"
-    .string "high regard.$"
+    .string "Le PROF. CHEN est une célébrité\n"
+    .string "dans le monde des POKéMON.\p"
+    .string "Nombreux sont les DRESSEURS qui\n"
+    .string "lui portent un grand respect.$"
 
 PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
     .string "Ah, now this is excellent!\p"

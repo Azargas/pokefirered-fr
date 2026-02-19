@@ -16,22 +16,24 @@ PalletTown_Text_RaisingMonsToo::
     .string "protect me.$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
-    .string "Technology is incredible!\p"
-    .string "You can now store and recall items\n"
-    .string "and POKéMON as data via PC.$"
+    .string "Le progrès… C'est dément!\p"
+    .string "On peut désormais stocker et même\n"
+    .string "retirer des objets ou des\l"
+    .string "POKéMON via un PC!$"
 
 PalletTown_Text_OakPokemonResearchLab::
-    .string "OAK POKéMON RESEARCH LAB$"
+    .string "LABO POKéMON DU PROF. CHEN$"
 
 PalletTown_Text_PlayersHouse::
-    .string "{PLAYER}'s house$"
+    .string "Maison de {PLAYER}$"
 
 PalletTown_Text_RivalsHouse::
-    .string "{RIVAL}'s house$"
+    .string "Maison de {RIVAL}$"
 
 PalletTown_Text_TownSign::
-    .string "PALLET TOWN\n"
-    .string "Shades of your journey await!$"
+    .string "BOURG PALETTE\n"
+    .string "Un monde de couleurs\l"
+    .string "s'ouvre à vous!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
     .string "OAK: Ah, {PLAYER}!\n"

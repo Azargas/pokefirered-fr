@@ -15,12 +15,12 @@ Text_PokeMartShelf::
 	.string "Tons of POKéMON stuff!$"
 
 Text_DishesPlatesNeatlyLinedUp::
-	.string "Dishes and plates are neatly\n"
-	.string "lined up.$"
+	.string "De la vaisselle est rangée\n"
+	.string "dans ce placard.$"
 
 Text_Kitchen::
-	.string "It smells delicious!\n"
-	.string "Somebody's been cooking here.$"
+	.string "Quelqu'un a cuisiné ici,\n"
+	.string "ça sent vraiment bon.$"
 
 Text_Dresser::
 	.string "C'est une belle commode.\n"
@@ -60,8 +60,8 @@ Text_Painting::
 	.string "It looks like it's feeling good.$"
 
 Text_PowerPlantMachine::
-	.string "What could this machine be?\n"
-	.string "Better not mess around with it!$"
+	.string "A quoi ça peut bien servir? Mieux\n"
+	.string "vaut ne pas y toucher!$"
 
 Text_Telephone::
 	.string "It's a telephone.\n"
@@ -97,8 +97,8 @@ Text_BeautifulSkyWindow::
 	.string "beautiful.$"
 
 Text_BlinkingLights::
-	.string "Lights in different colors are\n"
-	.string "flashing on and off.$"
+	.string "Il y a plein de petites lampes\n"
+	.string "qui clignotent.$"
 
 Text_NeatlyLinedUpTools::
 	.string "All sorts of tools are lined up\n"
@@ -117,5 +117,5 @@ Text_Burglary::
 	.string "here…$"
 
 Text_PlayerFacingTVScreen::
-	.string "There's a POKéMON on TV!\n"
-	.string "It looks like it's having fun.$"
+	.string "Une émission avec des POKéMON.\n"
+	.string "Ça a l'air cool!$"
