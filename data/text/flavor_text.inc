@@ -1,8 +1,7 @@
 @ Flavor text for interacting with various background objects
 
 Text_Bookshelf::
-	.string "It's crammed full of POKéMON\n"
-	.string "books.$"
+	.string "Des bouquins sur les POKéMON!$"
 
 Text_NothingButPokemonBooks::
 	.string "ほんだなに　ならんでいるのは\n"
@@ -24,8 +23,8 @@ Text_Kitchen::
 	.string "Somebody's been cooking here.$"
 
 Text_Dresser::
-	.string "It's a nicely made dresser.\n"
-	.string "It will hold a lot of stuff.$"
+	.string "C'est une belle commode.\n"
+	.string "On peut y ranger plein de trucs.$"
 
 Text_Snacks::
 	.string "There's a pile of snacks here.$"
